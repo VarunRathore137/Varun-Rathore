@@ -11,10 +11,10 @@ Brief introduction about me: I am a- <br>
 • 🌐 3D Spatial Data & Point Cloud Enthusiast (Open3D / Three.js). <br>
 • 📄 Published Lead Research Author. <br>
 
-• 🌱 I am currently working on **High-Throughput Model Serving pipelines, ONNX optimization, and TensorRT deployment**. <br>
+• 🌱 I am currently working on **High-Throughput Model Serving pipelines, ONNX optimization, Autonomous Personal Companion**. <br>
 • 🧑‍🤝‍🧑 I am looking to collaborate on high-performance AI infrastructure, production-grade vision pipelines, and deep-tech architectures. <br>
 • 🫱🏻‍🫲🏻 I’m open to Full-Time Software Engineering (AI/ML, MLOps, Backend) roles and premium SDE internships. <br>
-• 📈 Ask me about: **Dark Trace AI** (847 msgs/sec FastAPI backend) or **TrafficIQ** (YOLOv8 edge vision pipeline). <br>
+• 📈 Ask me about: **Dark Trace AI** ( 2300+ mgs/sec with 0.46ms latency using FastAPI backend) or **TrafficIQ** (YOLOv8 edge vision pipeline). or **ZENO** (Personal Autonomous Companion)<br>
 • 📫 How to reach me varunrathoreonwork@gmail.com. <br>
 • 📄 View my resume [here](https://drive.google.com/file/d/1d3Hw6kN5iLzPm6NnpOBGUzsyK8uIlK2D/view?usp=sharing)
 <br>
